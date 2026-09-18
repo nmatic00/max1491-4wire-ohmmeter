@@ -5,6 +5,9 @@ This is my first project.
 Portable digital ohmmeter designed for accurate low-resistance measurements. This project covers the full electronic system design, including schematic capture, board layout, input protection, and a display subsystem.
 
 Developed as a coursework project for **Design of Industrial Devices and Measurement Systems 1**.
+---
+
+![image](main-board.jpg)
 
 ---
 
